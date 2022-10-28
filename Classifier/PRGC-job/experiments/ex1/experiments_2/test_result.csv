@@ -1,0 +1,3 @@
+prefix,target_text,input_text,truth
+WebNLG,Knowledge of WordPress and plugins ,Knowledge | knowledge_skills | plugins && Knowledge | knowledge_skills | WordPress,Knowledge | knowledge_skills | plugins && Knowledge | knowledge_skills | WordPress
+WebNLG, Good knowledge of WCAG Accessibility guidelines .,Good knowledge | knowledge_skills | WCAG Accessibility guidelines,Good knowledge | knowledge_skills | WCAG Accessibility guidelines

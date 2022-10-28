@@ -1,0 +1,11 @@
+prefix,input_text,target_text
+webNLG,Familiarity | knowledge_skills | the strengths && Familiarity | knowledge_skills | weaknesses of wider toolsets && Familiarity | knowledge_skills | PowerQuery && Familiarity | knowledge_skills | ADF && Familiarity | knowledge_skills | Databricks && Familiarity | knowledge_skills | dbt," Familiarity with the strengths and weaknesses of wider toolsets such as PowerQuery, ADF, Databricks, dbt"
+webNLG,Familiar | knowledge_areas | agile delivery framework, Familiar with agile delivery framework
+webNLG,Experience | Experience_skills | working with machine learning or predictive models," Experience working with machine learning or predictive models, e"
+webNLG,Knowledgeable | knowledge_skills | proactively upskilling && Knowledgeable | knowledge_skills | adaptable," Knowledgeable – proactively upskilling, adaptable,"
+webNLG,Degree | degree_in | a mathematical / analytical related discipline && Degree | degree_in | equivalent,Degree in a mathematical/analytical related discipline or equivalent
+webNLG,Ability | knowledge_skills | analyse and extract information from large data sets, Ability to analyse and extract information from large data sets
+webNLG,A technical ability | knowledge_skills | using software ( SQL / R or other coding languages ), A technical ability using software (SQL/R or other coding languages)
+webNLG,Knowledge | knowledge_skills | distressed debt, Knowledge of distressed debt
+webNLG,Recent industry experience | Experience_skills | a Data Analysis role having worked with large sets of data, Recent industry experience in a Data Analysis role having worked with large sets of data
+webNLG,Proficiency | knowledge_skills | the use of a statistical programming language && Proficiency | knowledge_skills | Python && Proficiency | knowledge_skills | R for the purpose of Data Analysis, Proficiency in the use of a statistical programming language such as Python or R for the purpose of Data Analysis

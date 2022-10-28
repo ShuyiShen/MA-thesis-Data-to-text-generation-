@@ -1,0 +1,16 @@
+[
+    {
+        "0": "knowledge_skills",
+        "1": "knowledge_areas",
+        "2": "Experience_skills",
+        "3": "Experience_areas",
+        "4": "degree_in"
+    },
+    {
+        "knowledge_skills": 0,
+        "knowledge_areas": 1,
+        "Experience_skills": 2,
+        "Experience_areas": 3,
+        "degree_in": 4
+    }
+]

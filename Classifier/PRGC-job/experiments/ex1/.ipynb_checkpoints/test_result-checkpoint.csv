@@ -1,0 +1,3 @@
+prefix,target_text,input_text,truth
+WebNLG,Some experience with programming – e ,Some experience | Experience_skills | programming,Some experience | Experience_skills | programming
+WebNLG," Familiarity with digital health , medicines or electronic health data",Familiarity | knowledge_skills | digital health && Familiarity | knowledge_skills | medicines && Familiarity | knowledge_skills | electronic health data,Familiarity | knowledge_areas | digital health && Familiarity | knowledge_areas | medicines && Familiarity | knowledge_areas | electronic health data

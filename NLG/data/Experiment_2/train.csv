@@ -1,0 +1,3 @@
+prefix,input_text,target_text
+webNLG,Familiarity | knowledge_skills | ADF && Familiarity | knowledge_skills | the strengths and weaknesses of wider toolsets && Familiarity | knowledge_skills | Databricks," Familiarity with the strengths and weaknesses of wider toolsets such as PowerQuery, ADF, Databricks, dbt"
+webNLG,Familiar | knowledge_areas | agile delivery framework, Familiar with agile delivery framework

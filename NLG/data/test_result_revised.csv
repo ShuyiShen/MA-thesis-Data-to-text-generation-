@@ -1,0 +1,5 @@
+prefix,input_text,target_text
+webNLG,Familiarity | knowledge_skills | the strengths && Familiarity | knowledge_skills | weaknesses of wider toolsets && Familiarity | knowledge_skills | PowerQuery && Familiarity | knowledge_skills | ADF && Familiarity | knowledge_skills | Databricks && Familiarity | knowledge_skills | dbt," Familiarity with the strengths and weaknesses of wider toolsets such as PowerQuery, ADF, Databricks, dbt"
+webNLG,Familiar | knowledge_areas | agile delivery framework, Familiar with agile delivery framework
+webNLG,Experience | Experience_skills | working with machine learning or predictive models," Experience working with machine learning or predictive models, e"
+webNLG,Knowledgeable | knowledge_skills | proactively upskilling && Knowledgeable | knowledge_skills | adaptable," Knowledgeable – proactively upskilling, adaptable,"
